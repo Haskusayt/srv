@@ -17,3 +17,8 @@ body {
 .gem-image {
   width: 300px;
 }
+
+.gem-image:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
