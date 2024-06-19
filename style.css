@@ -28,6 +28,10 @@ body {
   opacity: 0.9;
   cursor: pointer;
 }
+.upgrade-img:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
 .gem-image:active {
   opacity: 0.8;
   transform: scale(1.2)
