@@ -32,3 +32,11 @@ body {
   opacity: 0.8;
   transform: scale(1.2)
 }
+
+.upgrade-img {
+  width: 55px
+}
+
+.gem-img {
+  width: 20px
+}
