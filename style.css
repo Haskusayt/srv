@@ -38,7 +38,7 @@ body {
 }
 
 .upgrade {
-  width: 55px
+  display: flex
 }
 
 .gem-img {
