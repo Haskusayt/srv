@@ -8,7 +8,7 @@ function incrementGem() {
 
 function buyClick() {
   if (parseFloat(gem.innerHTML) >= clickerCost.innerHTML) {
-    gem.innerHTML -= clickerCost.innerHTML
+    parseFloat(gem.innerHTML) -= clickerCost.innerHTML
     gemsperclick += 1
   }
 }
